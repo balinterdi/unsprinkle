@@ -20,7 +20,7 @@ const HeroImage = () => {
         "
       />
       <Image
-        alt="Cat with cool blue eyes"
+        alt="An example of the photos distributed through this site (a blue-eyed cat)"
         src="/images/hero-img.jpg" 
       />
     </Picture>
